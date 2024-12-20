@@ -17,7 +17,7 @@ INSERT INTO task (
     description
 ) values
 (
-    "Walk thhe dog",
+    "Walk the dog",
     "Take fido out for a walk",
     "Fido needs three laps around the park"
 ),
